@@ -80,6 +80,10 @@ errCh, _ := svc.Start(context.Background())
 _ = errCh
 ```
 
+## Message format
+
+See docs/messages.md for Kafka request/response message contracts.
+
 ## Structure
 
 - `cmd/polyschedule-backend` — entrypoint
