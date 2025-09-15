@@ -1,0 +1,9 @@
+.env
+**/.DS_Store
+**/.idea
+**/.vscode
+/tmp
+**/bin
+**/build
+**/dist
+node_modules
